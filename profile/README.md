@@ -3,3 +3,6 @@
 TabaneProject is an organization that empowers Tabane, projects that are similar to Tabane and projects that use Tabane. As TabaneProject, we want a Javascript Project Manager that can suit your needs in an All-In-One Pack.
 
 Tabane is a Javascript Project Manager that can be used for bundling files for web or compiling the Tabane Superset and more, like Automating procedures, generating files and basic file operations.
+
+> [!IMPORTANT]
+> We are under a huge rewriting operation to make Tabane better in all ways.
